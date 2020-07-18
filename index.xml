@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanyu</title>
+    <link>https://Hanyu-Shi.github.io/</link>
+      <atom:link href="https://Hanyu-Shi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanyu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Hanyu-Shi.github.io/images/icon_hu5a5e7d7f764d7f1d7cfc56e655cabf40_39105_512x512_fill_lanczos_center_2.png</url>
+      <title>Hanyu</title>
+      <link>https://Hanyu-Shi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://Hanyu-Shi.github.io/projects/001/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Hanyu-Shi.github.io/projects/001/pubs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Liang, S., Zhang, X., 2016. Consistent estimation of multiple parameters from MODIS top of atmosphere reflectance data using a coupled soil-canopy-atmosphere radiative transfer model. &lt;em&gt;&lt;strong&gt;Remote Sens. Environ.&lt;/strong&gt;&lt;/em&gt; 184, 40–57. &lt;a href=&#34;https://doi.org/10.1016/j.rse.2016.06.008&#34;&gt;https://doi.org/10.1016/j.rse.2016.06.008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Liang, S., Ma, H., 2017. A Method for Consistent Estimation of Multiple Land Surface Parameters From MODIS Top-of-Atmosphere Time Series Data. &lt;em&gt;&lt;strong&gt;IEEE Trans. Geosci. Remote Sens.&lt;/strong&gt;&lt;/em&gt; 55, 5158–5173. &lt;a href=&#34;https://doi.org/10.1109/TGRS.2017.2702609&#34;&gt;https://doi.org/10.1109/TGRS.2017.2702609&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Tian, X., 2019. Exploration of machine learning techniques in emulating a coupled soil-canopy-atmosphere radiative transfer model for multi-parameter estimation from satellite observations. &lt;em&gt;&lt;strong&gt;IEEE Trans. Geosci. Remote Sens.&lt;/strong&gt;&lt;/em&gt; 57, 8522–8533. &lt;a href=&#34;https://doi.org/10.1109/TGRS.2019.2921392&#34;&gt;https://doi.org/10.1109/TGRS.2019.2921392&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Xiong, H., Xiao, Z., &lt;strong&gt;Shi, H.&lt;/strong&gt;, 2019. A method for multi-parameter consistent estimation from GOES-R top of atmosphere reflectance data, in: &lt;em&gt;&lt;strong&gt;International Geoscience and Remote Sensing Symposium&lt;/strong&gt;&lt;/em&gt;, Yokohama, Japan, pp. 7809–7812. &lt;a href=&#34;https://doi.org/10.1109/IGARSS.2019.8899147&#34;&gt;https://doi.org/10.1109/IGARSS.2019.8899147&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Liang, S., Xiao, Z., &lt;strong&gt;Shi, H.&lt;/strong&gt;, Ma, H., 2017. A data assimilation approach for simultaneously estimating a suite of land surface variables from satellite data, in: &lt;em&gt;&lt;strong&gt;IEEE International Geoscience and Remote Sensing Symposium&lt;/strong&gt;&lt;/em&gt;, Fort Worth, Texas, USA, pp. 3973–3975. &lt;a href=&#34;https://doi.org/10.1109/IGARSS.2017.8127870&#34;&gt;https://doi.org/10.1109/IGARSS.2017.8127870&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ma, H., Liang, S., Xiao, Z., &lt;strong&gt;Shi, H.&lt;/strong&gt;, 2017. Simultaneous inversion of multiple land surface parameters from MODIS optical–thermal observations. &lt;em&gt;&lt;strong&gt;ISPRS-J. Photogramm. Remote Sens.&lt;/strong&gt;&lt;/em&gt; 128, 240–254. &lt;a href=&#34;https://doi.org/10.1016/j.isprsjprs.2017.04.007&#34;&gt;https://doi.org/10.1016/j.isprsjprs.2017.04.007&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My website on GitHub</title>
+      <link>https://Hanyu-Shi.github.io/post/website/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://Hanyu-Shi.github.io/post/website/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://Hanyu-Shi.github.io&#34;&gt;https://Hanyu-Shi.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

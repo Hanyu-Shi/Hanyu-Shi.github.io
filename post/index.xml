@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Hanyu</title>
+    <link>https://Hanyu-Shi.github.io/post/</link>
+      <atom:link href="https://Hanyu-Shi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Hanyu-Shi.github.io/images/icon_hu5a5e7d7f764d7f1d7cfc56e655cabf40_39105_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://Hanyu-Shi.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>My website on GitHub</title>
+      <link>https://Hanyu-Shi.github.io/post/website/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://Hanyu-Shi.github.io/post/website/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://Hanyu-Shi.github.io&#34;&gt;https://Hanyu-Shi.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
