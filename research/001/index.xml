@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview | Hanyu</title>
-    <link>https://Hanyu-Shi.github.io/projects/001/</link>
-      <atom:link href="https://Hanyu-Shi.github.io/projects/001/index.xml" rel="self" type="application/rss+xml" />
+    <title>Overview | Home</title>
+    <link>https://Hanyu-Shi.github.io/research/001/</link>
+      <atom:link href="https://Hanyu-Shi.github.io/research/001/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Hanyu-Shi.github.io/images/icon_hu5a5e7d7f764d7f1d7cfc56e655cabf40_39105_512x512_fill_lanczos_center_2.png</url>
       <title>Overview</title>
-      <link>https://Hanyu-Shi.github.io/projects/001/</link>
+      <link>https://Hanyu-Shi.github.io/research/001/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://Hanyu-Shi.github.io/projects/001/publications/</link>
+      <link>https://Hanyu-Shi.github.io/research/001/publications/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://Hanyu-Shi.github.io/projects/001/publications/</guid>
+      <guid>https://Hanyu-Shi.github.io/research/001/publications/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Liang, S., Zhang, X., 2016. Consistent estimation of multiple parameters from MODIS top of atmosphere reflectance data using a coupled soil-canopy-atmosphere radiative transfer model. &lt;em&gt;&lt;strong&gt;Remote Sens. Environ.&lt;/strong&gt;&lt;/em&gt; 184, 40–57. &lt;a href=&#34;https://doi.org/10.1016/j.rse.2016.06.008&#34;&gt;https://doi.org/10.1016/j.rse.2016.06.008&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Liang, S., Ma, H., 2017. A Method for Consistent Estimation of Multiple Land Surface Parameters From MODIS Top-of-Atmosphere Time Series Data. &lt;em&gt;&lt;strong&gt;IEEE Trans. Geosci. Remote Sens.&lt;/strong&gt;&lt;/em&gt; 55, 5158–5173. &lt;a href=&#34;https://doi.org/10.1109/TGRS.2017.2702609&#34;&gt;https://doi.org/10.1109/TGRS.2017.2702609&lt;/a&gt;&lt;/li&gt;
