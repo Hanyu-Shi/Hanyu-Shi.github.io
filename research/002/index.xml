@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Home</title>
+    <link>https://Hanyu-Shi.github.io/research/002/</link>
+      <atom:link href="https://Hanyu-Shi.github.io/research/002/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Hanyu-Shi.github.io/images/icon_hu5a5e7d7f764d7f1d7cfc56e655cabf40_39105_512x512_fill_lanczos_center_2.png</url>
+      <title>Overview</title>
+      <link>https://Hanyu-Shi.github.io/research/002/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://Hanyu-Shi.github.io/research/002/publications/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://Hanyu-Shi.github.io/research/002/publications/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., Wen, J., Wu, S., 2020. An Optical-Thermal Surface-Atmosphere Radiative Transfer Model Coupling Framework With Topographic Effects. &lt;em&gt;&lt;strong&gt;IEEE Trans. Geosci. Remote Sens.&lt;/strong&gt;&lt;/em&gt; In press. &lt;a href=&#34;https://doi.org/10.1109/TGRS.2020.3044061&#34;&gt;https://doi.org/10.1109/TGRS.2020.3044061&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shi, H.&lt;/strong&gt;, Xiao, Z., 2020. The 4SAILT Model: An Improved 4SAIL Canopy Radiative Transfer Model for Sloping Terrain. &lt;em&gt;&lt;strong&gt;IEEE Trans. Geosci. Remote Sens.&lt;/strong&gt;&lt;/em&gt; In press. &lt;a href=&#34;https://doi.org/10.1109/TGRS.2020.3022874&#34;&gt;https://doi.org/10.1109/TGRS.2020.3022874&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
