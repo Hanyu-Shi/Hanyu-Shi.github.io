@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://Hanyu-Shi.github.io/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://Hanyu-Shi.github.io/award/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/experience/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/project/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/pubs/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/authors/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/author/hanyu-shi/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://Hanyu-Shi.github.io/tags/</loc>
+  </url>
+</urlset>
